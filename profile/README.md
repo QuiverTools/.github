@@ -7,4 +7,4 @@ There is
 * [a SageMath package](https://github.com/QuiverTools/QuiverTools)
 * a Julia package, focused on performance, is in progress
 
-See **[https://quiver.tools](quiver.tools)** for more information.
+See **[quiver.tools](https://quiver.tools)** for more information.
